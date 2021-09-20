@@ -1,4 +1,4 @@
-# PrimePatcher
+# PrimePatcher [PATCHED]
 
 This needs to be compiled to a DLL and injected into CS:GO using a DLL injector, any of the injection methods should work: LoadLib, ManualMapping ( haven't tried )
 
